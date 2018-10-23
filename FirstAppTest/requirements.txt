@@ -1,3 +1,4 @@
+blue==0.2.0
 Click==7.0
 Flask==1.0.2
 ItsDangerous==1.0.0
